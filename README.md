@@ -41,8 +41,8 @@ Highlighting your expertise in `Kotlin`, `Java`, `Swift`, `React Native`, `React
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rohit-wadhwa" target="_blank"><img src="https://github.com/sohailabbasDev/sohail-abbas-readme/blob/main/assets/in.png" alt="LinkedIn" width="30"></a>&nbsp;
-  <a href="https://github.com/rohit-wadhwa" target="_blank"><img src="https://github.com/sohailabbasDev/sohail-abbas-readme/blob/main/assets/git.png" alt="GitHub" width="30"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sohail-abbas-aa8785301" target="_blank"><img src="https://github.com/sohailabbasDev/sohail-abbas-readme/blob/main/assets/in.png" alt="LinkedIn" width="30"></a>&nbsp;
+  <a href="https://github.com/sohailabbasDev" target="_blank"><img src="https://github.com/sohailabbasDev/sohail-abbas-readme/blob/main/assets/git.png" alt="GitHub" width="30"></a>&nbsp;
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohit-wadhwa&color=brightgreen" alt="profile views" /> </p>
