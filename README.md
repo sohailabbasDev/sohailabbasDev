@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/Hi.gif" width="20px">
 
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/108873318?s=400&u=4e1d8bd4da825b2979aef786eab7a80d005706f6&v=4">
+<img align="left" width="130" height="140" src="https://github.com/sohailabbasDev/sohail-abbas-readme/blob/main/assets/my_image.png">
 <div>
 Sohail abbas here, a Software Developer with a passion for crafting innovative Mobile and web applications, primarily leveraging the backend cloud ecosystem. 
 My journey in technology is driven by an insatiable curiosity for the latest in cloud infrastructure, AI,
@@ -26,48 +26,30 @@ Join me as I navigate through the realms of Java, Kotlin, Swift, JavaScript, Rea
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/output/github-contribution-grid-snake.svg">
 </picture>
 
-### Certifications
-
-Proudly acquired certifications that underscore my expertise in web application development and emerging technologies:
-
-- [HIPAA Awareness Certificate](https://github.com/rohit-wadhwa/rohit-wadhwa/blob/main/certifications/HIPAA-Awareness-Certificate-for-Rohit-Wadhwa.pdf)
-- AWS 
-- PHP Skill - Certificate of Excellence
-- Introduction to ChatGPT
-- Generative AI
-
-Each certification is a milestone in my continuous learning journey to keep abreast of the latest advancements and contribute effectively to the field of AI and Cloud Software Development.
-
 ### ⏱️ Coding Activity
 
 [![wakatime](https://wakatime.com/badge/user/018d9d2b-3ff4-499c-bdac-6bb0c94e9011.svg)](https://wakatime.com/@018d9d2b-3ff4-499c-bdac-6bb0c94e9011)
 
-### 📘 Insight into My World
-
-- [My Blog](https://www.linkedin.com/in/rohit-wadhwa/recent-activity/articles/): Where I share insights on technology, best practices, and my journey in tech.
-
 ### 💼 Professional Skills
 
-Highlighting your expertise in `AWS`, `React`, `Loopback`, and other technologies here can provide a quick snapshot of your capabilities to visitors.
+Highlighting your expertise in `Kotlin`, `Java`, `Swift`, `React Native`, `React`, and other technologies here can provide a quick snapshot of your capabilities to visitors.
 
 ### 📢 Support or Contact
 
-👨🏻‍💻 Please feel free to get in touch, I'll be happy to help! 💁🏻‍♂️ [Email](mailto:rohit.wadhwa52@gmail.com)
+👨🏻‍💻 Please feel free to get in touch, I'll be happy to help! 💁🏻‍♂️ [Email](mailto:sohailabbas.ewit@gmail.com)
 
 ---
 
 <div align="center">
-  <a href="https://twitter.com/RohitWadhwa52" target="_blank"><img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/tw.png" alt="Twitter" width="30"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/rohit-wadhwa" target="_blank"><img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/in.png" alt="LinkedIn" width="30"></a>&nbsp;
-  <a href="https://github.com/rohit-wadhwa" target="_blank"><img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/git.png" alt="GitHub" width="30"></a>&nbsp;
-  <a href="https://about.me/rohit.wadhwa" target="_blank"><img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/www.png" alt="Website" width="30"></a>
+  <a href="https://www.linkedin.com/in/rohit-wadhwa" target="_blank"><img src="https://github.com/sohailabbasDev/sohail-abbas-readme/blob/main/assets/in.png" alt="LinkedIn" width="30"></a>&nbsp;
+  <a href="https://github.com/rohit-wadhwa" target="_blank"><img src="https://github.com/sohailabbasDev/sohail-abbas-readme/blob/main/assets/git.png" alt="GitHub" width="30"></a>&nbsp;
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohit-wadhwa&color=brightgreen" alt="profile views" /> </p>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rohit-wadhwa&show_icons=true&theme=graywhite&count_private=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-wadhwa&theme=graywhite&layout=compact&hide_langs_below=1"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sohailabbasDev&show_icons=true&theme=graywhite&count_private=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailabbasDev&theme=graywhite&layout=compact&hide_langs_below=1"/>
 </div>
 
 <div style="clear:both;"></div><div style="clear:both;"></div>
