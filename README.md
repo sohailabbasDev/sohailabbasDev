@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/Hi.gif" width="20px">
 
-<img align="left" height="200" src="[https://github.com/rohit-wadhwa/rohit-wadhwa/assets/2290963/4a57bfa6-152c-4571-852f-68acb9aa3abc](https://avatars.githubusercontent.com/u/108873318?s=400&u=4e1d8bd4da825b2979aef786eab7a80d005706f6&v=4)">
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/108873318?s=400&u=4e1d8bd4da825b2979aef786eab7a80d005706f6&v=4">
 <div>
 Sohail abbas here, a Software Developer with a passion for crafting innovative Mobile and web applications, primarily leveraging the backend cloud ecosystem. 
 My journey in technology is driven by an insatiable curiosity for the latest in cloud infrastructure, AI,
