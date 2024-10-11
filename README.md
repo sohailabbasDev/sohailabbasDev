@@ -47,18 +47,11 @@ Highlighting your expertise in `Kotlin`, `Java`, `Swift`, `React Native`, `React
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohit-wadhwa&color=brightgreen" alt="profile views" /> </p>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sohailabbasDev&show_icons=true&theme=graywhite&count_private=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailabbasDev&theme=graywhite&layout=compact&hide_langs_below=1"/>
+<div >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohailabbasDev&show_icons=true&theme=graywhite&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailabbasDev&theme=graywhite&layout=compact&hide_langs_below=1"/>
 </div>
 
-<div style="clear:both;"></div><div style="clear:both;"></div>
-
-<div align="center" style="clear:both;">
-  <p>&nbsp;</p>  <p>&nbsp;</p>
-  <p>&nbsp;</p>  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-</div>
 
 ---
 <div align="left" style="clear:both;">
